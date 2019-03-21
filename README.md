@@ -1,5 +1,11 @@
 # proactive-tasks
 
+Repository clone:
+
+```
+git clone --recursive https://github.com/ow2-proactive/proactive-tasks.git
+```
+
 Repository setup:
 
 ```
