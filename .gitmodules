@@ -1,0 +1,3 @@
+[submodule "submodules/proactive-examples"]
+	path = submodules/proactive-examples
+	url = https://github.com/ow2-proactive/proactive-examples.git
